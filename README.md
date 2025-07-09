@@ -1,5 +1,5 @@
-# Vue 3 + Vite
+# Vue 3 + Vite + Vuetify + Vue Router 4
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This development includes the implementation of the fourth and fifth competencies.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+I also have a node_modules folder, but I haven't uploaded it to the repository.
