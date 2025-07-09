@@ -1,0 +1,156 @@
+{
+  "destinations": [
+    {
+      "name": "Russia",
+      "slug": "russia",
+      "image": "russia.jpg",
+      "id": 1,
+      "description":
+        "The Russian Federation is the largest country in the world, occupying 1/8 of the landmass and located in the northeast of Eurasia. Russia is a country with a long history, a rich cultural heritage, and a beautiful natural environment. In Russia, you can find almost everything that a traveler might encounter in different countries, such as sunny subtropical beaches and snow-capped mountains, vast steppes and dense forests, and turbulent rivers and warm seas.",
+      "experiences": [
+        {
+          "name": "Baikal",
+          "slug": "baikal",
+          "image": "baikal.jpg",
+          "description":
+            "A lake in Eastern Siberia that contains almost 5% of all fresh water on the planet. We usually think of the lake as round or oval, and Lake Baikal as elongated in shape, like a crescent moon. Its length is 620 km, and its width reaches 80 km. It is very deep (about 1.5 km in places) and very clear: if you look down, you can see far, far away. There are a lot of animals here, about 3 thousand species. There is even a seal, a large mammal inhabiting the seas."
+        },
+        {
+          "name": "Kungur Ice Cave",
+          "slug": "kungur-ice-cave",
+          "image": "kunguricecave.jpg",
+          "description":
+            "A huge cave, covered with ice from the inside, is located in the Perm region. It is about 5,700 meters long and has 48 large grottoes and 60 transparent underground lakes. The ice formations create unique shapes. For example, one of the grottoes is called the Diamond Grotto because of its sparkling needle-like crystals."
+        },
+        {
+          "name": "Maly Semyachik",
+          "slug": "maly-semyachik",
+          "image": "malysemyachik.jpg",
+          "description":
+            "This is a stratovolcano in Kamchatka. In one of its craters, the Troitsky crater, there is an incredibly beautiful green-blue lake. Swimming in this lake is strictly prohibited, as the hot water contains highly corrosive acids such as sulfuric, hydrochloric, and hydrofluoric acids, which can be dangerous to humans. The color of the water is due to the presence of sulfur particles."
+        },
+        {
+          "name": "Lena Pillars",
+          "slug": "lena-pillars",
+          "image": "lenapillars.jpg",
+          "description":
+            "High cliffs stand in a row along the Lena River in Yakutia. They seem to be guarding the river for several dozen kilometers. Millions of years ago, there was a sea here, with huge deposits of limestone at the bottom. After complex geological processes, these deposits were brought to the surface, and for thousands of years, they have been shaped by rain, sun, and wind. Here, you can see ancient rock carvings, and scientists have discovered fossils of extinct animals."
+        }
+      ]
+    },
+    {
+      "name": "Germany",
+      "slug": "germany",
+      "image": "germany.jpg",
+      "id": 2,
+      "description":
+        "Germany is an amazing country with a thousand-year history and centuries-old traditions, which includes victories and defeats, periods of prosperity, and truly tragic pages. Located in Western Europe, it occupies a relatively small territory of 357,021 km², which places it 62nd in the world. With a population of 81,197,537 as of January 1, 2015, Germany ranks second among the countries of the Old World in terms of population, behind only Russia.",
+      "experiences": [
+        {
+          "name": "Urakhsky Waterfall",
+          "slug": "urakhsky-waterfall",
+          "image": "urakhsky-waterfall.jpg",
+          "description":
+            "No, you're not with Frodo in the Shire. But the Urach Waterfalls in Baden-Württemberg are just as picturesque as the landscapes in Tolkien's epic fantasy. Flowing over the edge of the limestone tuff, the water falls 37 meters into the valley."
+        },
+        {
+          "name": "Chalk Cliffs",
+          "slug": "chalk-cliffs",
+          "image": "chalk-cliffs.jpg",
+          "description":
+            "This natural wonder inspired the artist Caspar David Friedrich to create his famous painting The Chalk Cliffs of Rügen, a masterpiece of German Romanticism. The highest point of the rugged coastline is the impressive King's Throne (Königsstuhl), which stands at 118 meters."
+        },
+        {
+          "name": "Elbe Sandstone Mountains",
+          "slug": "elbe-sandstone-mountains",
+          "image": "elbe-sandstone-mountains.jpg",
+          "description":
+            "The medium-high mountain range in the upper reaches of the Elbe River impresses with its gigantic rock formations. This landscape invites you to hike and rewards you with breathtaking views."
+        },
+        {
+          "name": "Fairy Grotto In Saalfel",
+          "slug": "fairy-grotto-in-saalfel",
+          "image": "fairy-grotto-in-saalfeld.jpg",
+          "description":
+            "In the former mine in Saalfeld, the Fairy Grottoes today lure tourists to go down into the underground. Anyone who has been there at least once knows the reason: The Guinness Book of World Records has been listing the Fairy Grottoes as the most colorful observation grottoes in the world since 1993."
+        }
+      ]
+    },
+    {
+      "name": "USA",
+      "slug": "usa",
+      "image": "usa.jpg",
+      "id": 3,
+      "description":
+        "USA is one of the largest and most influential countries in the world today. It is located in North America and is the fourth-largest country in terms of territory, after Russia, Canada, and China. USA is a diverse and multicultural country that has made significant contributions to global culture and science. It offers travelers a wide range of experiences, from the wonders of the Grand Canyon, the Great Lakes, the mountains, and the Pacific coast, to the megacities of New York, Las Vegas, and Miami. Here, you can enjoy watching whales in Oregon, skiing in the Rocky Mountains, socializing in San Francisco, watching incomparable performances and gambling in Las Vegas, or attending theatrical productions in between shopping sprees in Manhattan.",
+      "experiences": [
+        {
+          "name": "Glacier National Park",
+          "slug": "glacier-national-park",
+          "image": "glacier-national-park.jpg",
+          "description":
+            "Known for its seemingly endless acres of rocky landscapes, Glacier National Park was established in 1910. Today, it remains a symbol of shared management between Canada and the United States. Glacier National Park is home to lakes, meadows, over 700 hiking trails, and glacier-carved peaks."
+        },
+        {
+          "name": "Zion National Park",
+          "slug": "zion-national-park",
+          "image": "zion-national-park.jpg",
+          "description":
+            "Zion National Park, located in Utah, is one of the most beautiful places on earth, with its apricot-colored canyons and breathtaking views. The name Zion means place of peace and refuge. Zion is well-known as a nature reserve with over 146,000 acres of rock formations, canyons, diverse plant and animal life, and stunning beauty."
+        },
+        {
+          "name": "Yellowstone National Park",
+          "slug": "yellowstone-national-park",
+          "image": "yellowstone-national-park.jpg",
+          "description":
+            "Yellowstone National Park is famous for its impressive canyons, wildlife, hot springs, alpine rivers, and incredible views. Plus, the popular Old Faithful Geyser. Founded in 1872 as the first national park, Yellowstone is known for its grizzly and black bears, wild bison, wolves, giant waterfalls, and the largest concentration of active geysers on Earth."
+        },
+        {
+          "name": "Badlands National Park",
+          "slug": "badlands-national-park",
+          "image": "badlands-national-park.jpg",
+          "description":
+            "Known for its seemingly endless acres of rocky landscapes, Glacier National Park was established in 1910. Today, it remains a symbol of Canada's and the United States' shared management. Glacier National Park is home to lakes, meadows, over 700 hiking trails, and glacier-carved peaks. Just as the landscape and wildlife are part of Glacier National Park's heritage, so are the historic cabins and classic red buses and their drivers, known as jammers. This year, the season opened on May 14, 2021, and will close on September 22, 2021. Many Glacier Hotel is the largest hotel in the park, located in the Switzerland of the North."
+        }
+      ]
+    },
+    {
+      "name": "Finland",
+      "slug": "finland",
+      "image": "finland.jpg",
+      "id": 4,
+      "description":
+        "Finland is a fantastic northern land that captivates with its ultramarine lakes, polar expanses, and charming cities with unassuming Scandinavian architecture and names that are unfamiliar to the Russian ear. Surrounded by the cool waters of the Baltic Sea, this picturesque corner of Northern Europe is particularly beloved by our compatriots for its accessibility, which is not surprising, given that the entire eastern part of the country is essentially a large border with Russia. For residents of the cultural capital, Finnish landscapes are like family: it is almost impossible to find a resident of St. Petersburg who does not spend at least one weekend a year in the Land of a Thousand Lakes.",
+      "experiences": [
+        {
+          "name": "Riisitunturi",
+          "slug": "riisitunturi",
+          "image": "riisitunturi.jpg",
+          "description":
+            "Located in Southern Lapland, Riisitunturi is known as the land of hanging bogs and snow figures. Travelers are encouraged to visit the park at different times of the year to fully appreciate the changing nature of the landscape. From the 465-meter-high Riisitunturi hill, visitors can enjoy breathtaking views of the park, which is located at an altitude of 300 meters above sea level. The hanging swamps of Riisitunturi, which can be seen in summer, are considered the most beautiful in Europe. They are a combination of various colors and a paradise for rare marsh plants. In winter, Riisitunturi offers endless opportunities to admire the snowy figures of the frozen forest. The area's charm lies in the individual trees covered in snow with a hard layer of frost, which gives the tree figures a magical appearance. For those who are cold, there is a heated winter camping area available."
+        },
+        {
+          "name": "Hossa",
+          "slug": "hossa",
+          "image": "hossa.jpg",
+          "description":
+            "Hossa is a newcomer to the country's galaxy of national parks. It is located in Eastern Finland, near the border with Karelia. Among the attractions are the cleanest ponds, teeming with fish, and rock art. The series of rock carvings on the Vyarikallio rock, near Lake Somerjärvi, is the largest dating back to the New Stone Age. Historians believe that these drawings are at least 3500-4500 years old."
+        },
+        {
+          "name": "Koli",
+          "slug": "koli",
+          "image": "koli.jpg",
+          "description":
+            "This is one of the most popular national parks for both tourists and locals. It is also located in Eastern Finland, near the town of Joensuu. The most impressive views and landscapes of the park can be seen from the top of Koli Hill. The highest elevation in Eastern Finland, Ukkö-Koli (347 m), is located in the national park. Despite its height, it is accessible to both adults and children, and the hiking trails are well-designed. But some of the peaks have very steep climbs, so it will be difficult to get there with strollers or bicycles. However, for example, the Ukkko-Koli peak, which offers an extremely picturesque view, can be reached by following a specially equipped route for people with limited mobility."
+        },
+        {
+          "name": "Nuuksio",
+          "slug": "nuuksio",
+          "image": "nuuksio.jpg",
+          "description":
+            "This is a gem of the capital region a piece of wilderness just half an hour from Helsinki (40 km) by private or public transport. The park is located near the city of Espoo and is designed for all ages and physical conditions, and is accessible to people with disabilities. The routes developed in the park will interest both beginners and experienced travelers."
+        }
+      ]
+    }
+  ]
+}

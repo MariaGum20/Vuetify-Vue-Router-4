@@ -1,0 +1,1 @@
+import{_ as e,c as a,a as o,o as t}from"./index-mcbXhAlQ.js";const r={},c={class:"russia"};function n(_,s){return t(),a("div",c,s[0]||(s[0]=[o("h1",null,"Russia",-1)]))}const l=e(r,[["render",n]]);export{l as default};
